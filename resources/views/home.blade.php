@@ -18,6 +18,7 @@
         <table class="table">
             <thead>
                 <tr>
+                    <th scope="col">Index</th>
                     <th scope="col">Azienda</th>
                     <th scope="col">Stazione di partenza</th>
                     <th scope="col">Stazione di arrivo</th>
